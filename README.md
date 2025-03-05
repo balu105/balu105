@@ -25,7 +25,7 @@ Check out some of my best projects:
  
 
 ## 📫 Connect with Me
-🔗 GitHub:
+🔗 GitHub: https://github.com/balu105
 🔗 LinkedIn: www.linkedin.com/in/kandanathi-chittem-balaji
 📧 Email: balajikc89@gmail.com
 
