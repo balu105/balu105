@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm [KANDANATHI CHITTEM BALAJI]!
 
-<!--
-**balu105/balu105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a passionate developer who loves coding and building innovative projects.  
+Currently exploring **React.js, Python, and AI**.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Machine Learning & Web Development**
+- 💬 Ask me about **Python, Java , or Open Source**
+- 🎯 Goal: To contribute to more open-source projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- 💻 **Languages:** Python | PHP  
+- 🌐 **Frontend:** HTML | CSS | React.js  
+- 🛢 **Database:** MySQL  
+- ⚙ **Tools & Platforms:** Git | AWS | VS Code  
+
+## 🎯 Projects
+Check out some of my best projects:  
+- 🔹 **[Project 1](https://github.com/yourusername/project1)** - A cool project  
+- 🔹 **[Project 2](https://github.com/yourusername/project2)** - Another amazing project  
+
+## 🏆 Achievements
+- 🎖 Completed AWS Internship through APSSDC  
+- 🎓 Earned Python Certification from CognitiveClass.ai  
+ 
+
+## 📫 Connect with Me
+🔗 GitHub:
+🔗 LinkedIn: www.linkedin.com/in/kandanathi-chittem-balaji
+📧 Email: balajikc89@gmail.com
+
+## 🎉 Fun Fact
+I love **solving coding challenges**, and I enjoy **playing chess & exploring AI**!
